@@ -55,6 +55,7 @@
 </ul>
 </ol>
 </ol>
+<p align="center"><img src="certificate.png" width="60%" height="60%" /></p>
 
 <h2 dir="rtl" align="right">مقتطفات أخرى</h2>
 <ol dir="rtl">
