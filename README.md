@@ -9,7 +9,6 @@
 <h2 dir="rtl" align="right">المجالات (Domains) المغطاة ضمن شهادة CISSP</h2>
 <p dir="rtl" align="right">يضم منهج الشهادة عدد (8) مجالات رئيسية وهي كالتالي:</p>
 <ol dir="rtl">
-<ol dir="rtl">
 <li>Security and Risk Management</li>
 <li>Asset Management</li>
 <li>Security Architecture and Engineering</li>
@@ -18,7 +17,6 @@
 <li>Security Assessment and Testing</li>
 <li>Security Operations</li>
 <li>Software Development Security</li>
-</ol>
 </ol>
 <h2 dir="rtl" align="right">تفاصيل الاختبار</h2>
 <p dir="rtl" align="right">هذه التفاصيل ستقوم بالإجابة على استفسارات العديد من المهتمين في تقديم الاختبار:</p>
